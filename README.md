@@ -1,2 +1,2 @@
-# R-ngten
+# Røngten
 Just another repository
